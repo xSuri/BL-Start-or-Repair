@@ -1,4 +1,4 @@
-# BL-Start-Repair
+# BL-Start-or-Repair
 
 Wszystkie "skrypty" itp. należą do właściciela (suri/suri092004). Podpisywanie się pod nimi bez zgody właściciela jest zabronione. Można modyfikować, ściągać je przy czym trzeba podawać prawowitego ich twórce. Wszelkie moje projekty powstały nagle i ostrzegam że uczę się m.im. tego języka. Wszelkie moje projekty udostępnione są darmowe i można z nich swobodnie korzystać. Wszelkie błedy, lub propozycje można kierować do właściciela (czyli mnie). Miłego korzystania C:
 
