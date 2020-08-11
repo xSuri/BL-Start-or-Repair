@@ -7,4 +7,4 @@ I am constantly improving my own skills and so far I do not share my projects ve
 # Start
 To start script go to main path and write in console:
 
-,, sh nazwa.sh "
+,, sh name.sh "
